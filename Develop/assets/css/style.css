@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
+/* removed not needed CSS formatting and consolidated formatting using semantic text (e.g., header and nav) as references */
 
 header {
     padding: 20px;
@@ -101,7 +102,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* removed not needed CSS formatting and consolidated it as .contentBox */
 .contentBox {
     margin-bottom: 20px;
     padding: 50px;
@@ -130,13 +131,3 @@ footer {
 footer h2 {
     font-size: 20px;
 }
-/* .footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
-} */
